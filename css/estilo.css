@@ -2,3 +2,15 @@
     margin: 0;
     padding: 0;
 }
+
+#index {
+    background-color: aliceblue;
+}
+
+#pagina {
+    background-color: antiquewhite;
+}
+
+#contato {
+    background-color: beige;
+}
